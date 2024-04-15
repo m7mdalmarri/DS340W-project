@@ -16,7 +16,7 @@ Unnecessary:
 ML_Six_Models.ipynb (older version of me working on the models.)
 data_modeling.ipynb (the first modeling file I got when I found the code, not related to my paper.)
 dubai-house-prediction.ipynb (older version of the models, when most of them were overfitting, contacted the professor and fixed them in the modified file.)
-
+properties_data.csv (older version of the data, not needed.)
 
 ### Tags
 
