@@ -2,22 +2,21 @@
 
 ### Introduction:
 This project is inspired by the famous House Price prediction project on Kaggle (https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
+There are many data files in this project, many of them are were older versions of me working on the project, hence they are unnecessary. Instead of deleting them I have kept them just for reference in case they were needed. I will list the files which are useful here in this section (files for the final submission of the project.)
+Necessary:
+cleaned_property_data.csv
+data_cleaning.ipynb
+data_cleaning.py
+data_collection.py
+data_exploration.ipynb
+dubai_house_prediction_modified (2).ipynb
+properties.csv
 
-The targeted housing market for this project is Dubai, United Arab Emirates. We will be exploring the market data scrapped from one of the famous real estate search engines in Dubai. We will only be modeling around apartment type residential units.
+Unnecessary:
+ML_Six_Models.ipynb (older version of me working on the models.)
+data_modeling.ipynb (the first modeling file I got when I found the code, not related to my paper.)
+dubai-house-prediction.ipynb (older version of the models, when most of them were overfitting, contacted the professor and fixed them in the modified file.)
 
-Our data, which is scrapped using selenium and beautifulsoup, consists of necessary information containing primary details (bedrooms, bathrooms, square footage area, prices, and list of amenities)
-
-This project includes feature engineering to make data relevant and usable for ML model building.
-
-### Credits:
-I want to give credit to Ömer Sakarya from towardsdatascience.com. his code in scrapping glassdoor gave me the idea link below
-https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-
-The data has been anonymized and is not scrapped for commercial usage.
-
-### Notes:
-
-Do note that the scrapping is very specific to a portal that I chose for my data source. I have obscured the URL, just in case. The purpose is to showcase the logics and technics went into scrapping data.
 
 ### Tags
 
